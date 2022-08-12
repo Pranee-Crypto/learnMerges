@@ -1,1 +1,1 @@
-print("Hello, this is python - from main  -Branch specific")
+print("Successfully resolved Merge Conflict")
