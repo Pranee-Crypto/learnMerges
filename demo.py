@@ -1,1 +1,1 @@
-print("Successfully resolved Merge Conflict")
+print("Hello from Main")
