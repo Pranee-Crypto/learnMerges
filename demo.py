@@ -1,1 +1,1 @@
-print("I am from develop branch")
+print("Successfully resolved Merge Conflict")
